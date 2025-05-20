@@ -7,31 +7,39 @@ This repository contains Java programs along with their respective outputs for b
 📌 Program 01: ArrayList and LinkedList
 
 1a_arraylist_linkedlist o/p link :-
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot-1a_arraylist_linkedlist.png">arraylist_linkedlist</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot-1a_arraylist_linkedlist.png">Arraylist_Linkedlist</a>
 
 
-1b_arraylist_colorSearch o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png)
+1b_arraylist_colorSearch o/p link :-
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png">Arraylist_colorSearch</a>
 
-1b_arraylist_colorRemoval o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_removal.png)
+1b_arraylist_colorRemoval o/p link :-
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_removal.png">Arraylist_colorRemoval</a>
 
 1b_arraylist_colorSort o/p link :-
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_colorSort.png)
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_colorSort.png">Arraylist_colorSort</a>
 
-1b_arraylist_color_Sublist o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_sublist.png)
+1b_arraylist_color_Sublist o/p link :-
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_sublist.png">Arraylist_color_Sublist</a>
 
-1b_arraylist_Delete_element o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_deletenth_element.png)
+1b_arraylist_Delete_element o/p link :-
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_deletenth_element.png">Arraylist_Delete_element</a>
 
 1c_linkedlist_iterator o/p link :-
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Linkedlist_Iteration.png)
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Linkedlist_Iteration.png">linkedlist_iterator</a>
 
 1c_linkedlist_reverse_iterator o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Linkedlist_reverse_iterator.png)
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png">Arraylist_colorSearch</a>
 
 1c_linkedlist_addlast o/p link :-
 (https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20linkedlist_addlast.png)
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png">Arraylist_colorSearch</a>
 
 1c_linkedlist_display_with_position o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20linkedlist_displaywithposition.png)
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png">Arraylist_colorSearch</a>
 
 1c_linkedlist_swap_element o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20linkedlistswap_element.png)
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png">Arraylist_colorSearch</a>
 
 <br/>
 <br/>
