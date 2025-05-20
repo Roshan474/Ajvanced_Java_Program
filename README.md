@@ -1,5 +1,27 @@
 # Java Programs With Outputs
+Name : Roshan S
+USN : 4AL22CS121
+SEM/SEC : 6th SEM / B-Section
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Info</title>
+  <style>
+    .info {
+      font-size: 20px; /* You can change the size as needed */
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <p class="info">Name : Roshan S</p>
+  <p class="info">USN : 4AL22CS121</p>
+  <p class="info">SEM/SEC : 6th SEM / B-Section</p>
+
+</body>
+</html>
 
 <br/>
 <br/>
