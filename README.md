@@ -28,18 +28,17 @@ This repository contains Java programs along with their respective outputs for b
 1c_linkedlist_iterator o/p link :-
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Linkedlist_Iteration.png">linkedlist_iterator</a>
 
-1c_linkedlist_reverse_iterator o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Linkedlist_reverse_iterator.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png">Arraylist_colorSearch</a>
+1c_linkedlist_reverse_iterator o/p link :-
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Linkedlist_reverse_iterator.png">linkedlist_reverse_iterator</a>
 
 1c_linkedlist_addlast o/p link :-
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20linkedlist_addlast.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png">Arraylist_colorSearch</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20linkedlist_addlast.png">linkedlist_addlast</a>
 
-1c_linkedlist_display_with_position o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20linkedlist_displaywithposition.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png">Arraylist_colorSearch</a>
+1c_linkedlist_display_with_position o/p link :-
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20linkedlist_displaywithposition.png">linkedlist_display_with_position</a>
 
-1c_linkedlist_swap_element o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20linkedlistswap_element.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png">Arraylist_colorSearch</a>
+1c_linkedlist_swap_element o/p link :-
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20linkedlistswap_element.png">Linkedlist_swap_element</a>
 
 <br/>
 <br/>
