@@ -1,4 +1,5 @@
-# Advanced_java
+# Java Programs With Outputs
+This repository contains Java programs along with their respective outputs for better understanding. It includes fundamental Java exercises and GUI-based programs, as well as servlets and database connectivity examples
 
 1a_arraylist_linkedlist o/p link :-
 (https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot-1a_arraylist_linkedlist.png)
