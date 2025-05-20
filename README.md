@@ -7,7 +7,8 @@ This repository contains Java programs along with their respective outputs for b
 📌 Program 01: ArrayList and LinkedList
 
 1a_arraylist_linkedlist o/p link :-
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot-1a_arraylist_linkedlist.png)
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot-1a_arraylist_linkedlist.png">1a_arraylist_linkedlis</a>
+
 
 1b_arraylist_colorSearch o/p link :-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot%20Arraylist_color_search.png)
 
