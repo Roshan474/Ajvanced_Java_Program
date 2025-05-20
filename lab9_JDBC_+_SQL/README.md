@@ -1,7 +1,7 @@
 # Advanced_java
 📌 Program 09: JDBC + SQL 
 
-8a_delete_coffee o/p link :-
+9a_delete_coffee o/p link :-
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab9_JDBC_%2B_SQL/9a_Delete_Coffee/9a1.png">Delete_coffee_o/p:1</a>
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab9_JDBC_%2B_SQL/9a_Delete_Coffee/9a2.png">Delete_coffee_o/p:2</a>
 
