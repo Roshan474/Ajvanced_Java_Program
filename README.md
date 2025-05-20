@@ -1,9 +1,9 @@
 # Java Programs With Outputs
 
 
-  <p class="info">Name : Roshan S</p>
-  <p class="info">USN : 4AL22CS121</p>
-  <p class="info">SEM/SEC : 6th SEM / B-Section</p>
+<p style="font-size: 24px; font-weight: bold;">Name : Roshan S</p>
+<p style="font-size: 24px; font-weight: bold;">USN : 4AL22CS121</p>
+<p style="font-size: 24px; font-weight: bold;">SEM/SEC : 6th SEM / B-Section</p>
 
 <br/>
 <br/>
