@@ -2,7 +2,7 @@
 This repository contains Java programs along with their respective outputs for better understanding. It includes fundamental Java exercises and GUI-based programs, as well as servlets and database connectivity examples
 
 
-
+<br/>
 📌 Program 01: ArrayList and LinkedList
 
 1a_arraylist_linkedlist o/p link :-
