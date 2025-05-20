@@ -81,24 +81,25 @@ This repository contains Java programs along with their respective outputs for b
 3b_String_String_remove_WhiteSpace o/p link :- 
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20String_remove_White.png">String_String_remove_WhiteSpace</a>
 
+
 3c_String_String_Capitalize_words o/p link :- 
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20String_capitalize_words.png">String_String_Capitalize_words</a>
 
+
 3c_String_String_Truncate o/p link :- 
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20String_truncate.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20String_truncate.png">String_String_Truncate</a>
+
 
 3c_String_String_Numeric_Check o/p link :-
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20String_Numeric_Check.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20String_Numeric_Check.png">String_String_Numeric_Check</a>
+
 
 3c_String_Strings_RandomString o/p link :- 
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20Strings_RandomString.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20Strings_RandomString.png">String_Strings_RandomString</a>
+
 
 3c_String_Strings_Word_Count o/p link :- 
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20String_Word_count.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20String_Word_count.png">String_Strings_Word_Count</a>
 
 <br/>
 <br/>
@@ -106,16 +107,13 @@ This repository contains Java programs along with their respective outputs for b
 📌 Program 4: Swing Programs
 
 4a_Swings_Example o/p link :- 
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab4_Swings/Screenshot%20Swings_Example.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab4_Swings/Screenshot%20Swings_Example.png">Swings_Example</a>
 
 4b_Swings_Button_example o/p link :- 
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab4_Swings/Screenshot%20Swings_button_example.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab4_Swings/Screenshot%20Swings_button_example.png">Swings_Button_example</a>
 
 4c_Swings_Image_Button_example o/p link :- 
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab4_Swings/Screenshot-4c_Swings_ImageButtonExample.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab4_Swings/Screenshot-4c_Swings_ImageButtonExample.png">Swings_Image_Button_example</a>
 
 <br/>
 <br/>
@@ -123,19 +121,17 @@ This repository contains Java programs along with their respective outputs for b
 📌 Program 5: Multiple GUI Programs
 
 5a_Swings_Jlist_Example o/p link :-
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20Jlist_example.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20Jlist_example.png">Swings_Jlist_Example</a>
 
 5b_Swings_Tabbed_pane_Example o/p link :- 
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20tabbedpane_Example.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20tabbedpane_Example.png">Swings_Tabbed_pane_Example</a>
 
-5c_Swings_Country_CapitalList_Example o/p link :- (https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20Country_Capitallist.java.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+5c_Swings_Country_CapitalList_Example o/p link :- 
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20Country_Capitallist.java.png">Swings_Country_CapitalList_Example</a>
 
 5d_Swings_Color_Tabbed_pane_Example o/p link :- 
-(https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20Color_tabbed_pane.png)
-<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png">String_operation</a>
+
+<a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20Color_tabbed_pane.png">Swings_Color_Tabbed_pane_Example</a>
 
 <br/>
 <br/>
