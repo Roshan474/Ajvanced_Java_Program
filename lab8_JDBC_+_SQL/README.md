@@ -10,7 +10,7 @@
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab8_JDBC_%2B_SQL/8b_Update_Coffee/8b2.png">Update_coffee_o/p:2</a>
 
 
-8d_Append_employee o/p link :-
+8c_Append_employee o/p link :-
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab8_JDBC_%2B_SQL/8c_JDBC_Append_Emp/Screenshot-8c_JDBC_append.jpg">Append_employee</a>
 
 
