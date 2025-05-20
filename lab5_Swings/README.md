@@ -4,7 +4,6 @@
 
 5a_Swings_Jlist_Example o/p link :-
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20Jlist_example.png">Swings_Jlist_Example</a>
-
 <br/>
 <br/>
 5b_Swings_Tabbed_pane_Example o/p link :- 
