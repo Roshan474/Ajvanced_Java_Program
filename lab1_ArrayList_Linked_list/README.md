@@ -5,7 +5,6 @@
 
 1a_arraylist_linkedlist o/p link :-
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot-1a_arraylist_linkedlist.png">Arraylist_Linkedlist</a>
-
 <br/>
 <br/>
 1b_arraylist_colorSearch o/p link :-
