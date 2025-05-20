@@ -1,9 +1,10 @@
 # Java Programs With Outputs
 This repository contains Java programs along with their respective outputs for better understanding. It includes fundamental Java exercises and GUI-based programs, as well as servlets and database connectivity examples
 
-
+<br/>
 <br/>
 📌 Program 01: ArrayList and LinkedList
+<br/>
 
 1a_arraylist_linkedlist o/p link :-
 (https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab1_ArrayList_Linked_list/Screenshot-1a_arraylist_linkedlist.png)
@@ -35,7 +36,7 @@ This repository contains Java programs along with their respective outputs for b
 <br/>
 
 📌 Program 02: String Operations 
-
+<br/>
 2a_string_operation o/p link :-
 (https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab2_Strings/Screenshot%20string_operation.png)
 
@@ -45,7 +46,7 @@ This repository contains Java programs along with their respective outputs for b
 <br/>
 <br/>
 📌 Program 03: String Handling Operations
-
+<br/>
 3a_string_handling o/p link :-
 (https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab3_Strings/Screenshot%20Strng%20handling.png)
 
@@ -83,7 +84,7 @@ This repository contains Java programs along with their respective outputs for b
 <br/>
 
 📌 Program 4: Swing Programs
-
+<br/>
 4a_Swings_Example o/p link :- 
 (https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab4_Swings/Screenshot%20Swings_Example.png)
 
@@ -97,7 +98,7 @@ This repository contains Java programs along with their respective outputs for b
 <br/>
 
 📌 Program 5: Multiple GUI Programs
-
+<br/>
 5a_Swings_Jlist_Example o/p link :-
 (https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab5_Swings/Screenshot%20Jlist_example.png)
 
