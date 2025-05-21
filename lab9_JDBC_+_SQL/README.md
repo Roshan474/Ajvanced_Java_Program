@@ -14,7 +14,7 @@
 9c_JDBC_append o/p link :-
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab9_JDBC_%2B_SQL/9c_JDBC_Append/9c.jpg">JDBC_append</a>
 
-9b_JDBC_Delete o/p link :-
+9d_JDBC_Delete o/p link :-
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab9_JDBC_%2B_SQL/9d_JDBC_Delete/9d1.jpg">JDBC_Delete_o/p:1</a>
 <a href="https://github.com/Roshan474/Ajvanced_Java_Program/blob/main/lab9_JDBC_%2B_SQL/9d_JDBC_Delete/9d2.jpg">JDBC_Delete_o/p:2</a>
 
