@@ -1,5 +1,5 @@
 /*
-Write a Java Program for Capitalizing the first letter of each word. using user defined function
+3C: Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()
 */
 
