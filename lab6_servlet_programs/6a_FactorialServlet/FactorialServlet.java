@@ -1,5 +1,5 @@
 /*
-Build a servlet program to find the factorial of a number using HTML with step by step
+6A: Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.
 */
 -----------------------------------------------------------------------------------------------
