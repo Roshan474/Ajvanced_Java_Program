@@ -1,5 +1,5 @@
 /*
-Write a Java Program for Checking if a given string is null or contains only whitespace using user
+3B: Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().
 */
 
